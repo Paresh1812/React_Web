@@ -1,5 +1,5 @@
 import React from 'react'
-import home from '../website/home.svg'
+import home from '../images/home.svg'
 import Coman from './Coman'
 
 function Home() {

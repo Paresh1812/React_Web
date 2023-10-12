@@ -1,13 +1,12 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-
 function Cards({imageSource,title}) {
   return (
     <>
       <div className="col-md-4 col-10 mx-auto">
         <div className="card">
-          <img src={imageSource} style={{height: "300px"}} class="card-img-top" alt="https://picsum.photos/200" />
+          <img src={imageSource} style={{height: "300px"}} className="card-img-top" alt="https://picsum.photos/200" />
           <div className="card-body">
             <h5 className="card-title  font-weight-bold">{title}</h5>
             <p className="card-text">

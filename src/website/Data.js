@@ -1,27 +1,34 @@
+import Web from "../images/web.jpg";
+import Ios from "../images/ios.jpg";
+import Software from "../images/software.svg";
+import Marketing from "../images/marketing.jpg";
+import Digital from "../images/dm.jpg";
+import Android from "../images/android.svg";
+
 
 const Data = [
     {
-      images: "images/web.jpg",
+      images: Web,
       title: `Web Development`,
     },
     {
-      images: "images/ios.jpg",
+      images: Ios,
       title: `IOS Development`,
     },
     {
-      images: "images/software.svg",
+      images: Software,
       title: `Software Development`,
     },
     {
-      images: "images/marketing.jpg",
+      images: Marketing,
       title: `Marketing`,
     },
     {
-      images: "images/android.svg",
+      images: Digital,
       title: `Android Development`,
     },
     {
-      images: "images/dm.jpg",
+      images: Android,
       title: `Digital Marketing`,
     },
   ];

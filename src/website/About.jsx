@@ -1,5 +1,5 @@
 import React from "react";
-import about from "../website/about.jpg";
+import about from "../images/about.jpg";
 import Coman from "./Coman";
 
 function About() {
