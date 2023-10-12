@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/React_Web/static/css/main.cd197f2c.css",
-    "main.js": "/React_Web/static/js/main.ff297424.js",
+    "main.js": "/React_Web/static/js/main.08b1f2d3.js",
+    "static/media/dm.jpg": "/React_Web/static/media/dm.2d49b46e5433053b67e7.jpg",
     "static/media/about.jpg": "/React_Web/static/media/about.db9f828982941983e56f.jpg",
+    "static/media/web.jpg": "/React_Web/static/media/web.0a4893421f4eb80a395c.jpg",
+    "static/media/marketing.jpg": "/React_Web/static/media/marketing.2bf81d47d7cead86e5ca.jpg",
+    "static/media/software.svg": "/React_Web/static/media/software.31e0ed674787a1bc4c4109edea51c503.svg",
+    "static/media/ios.jpg": "/React_Web/static/media/ios.37f9863ced26737a0fb4.jpg",
+    "static/media/android.svg": "/React_Web/static/media/android.d4745704c6ca90c3335720e944280249.svg",
     "static/media/home.svg": "/React_Web/static/media/home.be06ffa57688ca3f6483cfced7a60527.svg",
     "index.html": "/React_Web/index.html",
     "main.cd197f2c.css.map": "/React_Web/static/css/main.cd197f2c.css.map",
-    "main.ff297424.js.map": "/React_Web/static/js/main.ff297424.js.map"
+    "main.08b1f2d3.js.map": "/React_Web/static/js/main.08b1f2d3.js.map"
   },
   "entrypoints": [
     "static/css/main.cd197f2c.css",
-    "static/js/main.ff297424.js"
+    "static/js/main.08b1f2d3.js"
   ]
 }
